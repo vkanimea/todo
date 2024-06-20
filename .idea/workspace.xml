@@ -51,42 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bonus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus9.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.execise2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.execise6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise10.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise15.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise7.2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise7.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise8.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.filter-file-list-output-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.filter-file-list-output.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vincentk/python/pmc/app1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bonus.executor": "Run",
+    "Python.bonus10.executor": "Run",
+    "Python.bonus11.executor": "Run",
+    "Python.bonus13.executor": "Run",
+    "Python.bonus2_2.executor": "Run",
+    "Python.bonus5.executor": "Run",
+    "Python.bonus8.executor": "Run",
+    "Python.bonus9.1.executor": "Run",
+    "Python.bonus9.executor": "Run",
+    "Python.execise2.4.executor": "Run",
+    "Python.execise6.1.executor": "Run",
+    "Python.exercise10.6.executor": "Run",
+    "Python.exercise11.executor": "Run",
+    "Python.exercise12.executor": "Run",
+    "Python.exercise13.executor": "Run",
+    "Python.exercise15.1.executor": "Run",
+    "Python.exercise2.3.executor": "Run",
+    "Python.exercise6.2.executor": "Run",
+    "Python.exercise7.2 (1).executor": "Run",
+    "Python.exercise7.2.executor": "Run",
+    "Python.exercise7.3.executor": "Run",
+    "Python.exercise8.1.executor": "Run",
+    "Python.filter-file-list-output-2.executor": "Run",
+    "Python.filter-file-list-output.executor": "Run",
+    "Python.main (1).executor": "Debug",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vincentk/python/pmc/app1",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vincentk\python\pmc\app1\.venv" />
@@ -278,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718872861469</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="main to cli">
+      <option name="closed" value="true" />
+      <created>1718875132569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718875132569</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +303,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add time feature" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="main to cli" />
+    <option name="LAST_COMMIT_MESSAGE" value="main to cli" />
   </component>
 </project>
