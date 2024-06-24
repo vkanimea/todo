@@ -1,4 +1,4 @@
-# Separate functions in own file and main logic is in the main.py
+# Separate functions in own file and main logic is in the cli.py
 FILEPATH = 'todos.txt'
 
 def get_todos(filepath=FILEPATH):
