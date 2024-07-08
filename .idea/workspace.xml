@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71d937df-d701-4790-a558-88297225b7a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,43 +55,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bonus.executor": "Run",
-    "Python.bonus10.executor": "Run",
-    "Python.bonus11.executor": "Run",
-    "Python.bonus13.executor": "Run",
-    "Python.bonus2_2.executor": "Run",
-    "Python.bonus5.executor": "Run",
-    "Python.bonus8.executor": "Run",
-    "Python.bonus9.1.executor": "Run",
-    "Python.bonus9.executor": "Run",
-    "Python.execise2.4.executor": "Run",
-    "Python.execise6.1.executor": "Run",
-    "Python.exercise10.6.executor": "Run",
-    "Python.exercise11.executor": "Run",
-    "Python.exercise12.executor": "Run",
-    "Python.exercise13.executor": "Run",
-    "Python.exercise15.1.executor": "Run",
-    "Python.exercise2.3.executor": "Run",
-    "Python.exercise6.2.executor": "Run",
-    "Python.exercise7.2 (1).executor": "Run",
-    "Python.exercise7.2.executor": "Run",
-    "Python.exercise7.3.executor": "Run",
-    "Python.exercise8.1.executor": "Run",
-    "Python.filter-file-list-output-2.executor": "Run",
-    "Python.filter-file-list-output.executor": "Run",
-    "Python.gui.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/vincentk/python/pmc/app1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bonus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus9.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.execise2.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.execise6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise10.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise15.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise7.2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise7.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter-file-list-output-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter-file-list-output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vincentk/python/pmc/app1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vincentk\python\pmc\app1\.venv" />
@@ -300,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718875244487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create GUI without Interactions">
+      <option name="closed" value="true" />
+      <created>1719221010697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719221010697</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +325,7 @@
     <MESSAGE value="Add time feature" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="main to cli" />
-    <option name="LAST_COMMIT_MESSAGE" value="main to cli" />
+    <MESSAGE value="Create GUI without Interactions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create GUI without Interactions" />
   </component>
 </project>
